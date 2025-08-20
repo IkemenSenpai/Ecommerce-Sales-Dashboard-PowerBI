@@ -19,7 +19,4 @@ This project was developed during my **6-week internship at InternPro** as part 
 
 ## 📷 Dashboard Preview
   
-`![Dashboard Screenshot](Screenshots/Main_Screenshot.png)`
-
-
-`[Screenshot](Screenshots/Screenshot%201.png)`
+<img width="1423" height="823" alt="Main Screenshot" src="https://github.com/user-attachments/assets/bb46b90d-5c46-449d-b780-19127c38964b" />

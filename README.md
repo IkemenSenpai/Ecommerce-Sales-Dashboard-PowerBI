@@ -1,2 +1,25 @@
-# Ecommerce-Sales-Dashboard-PowerBI
-Interactive E-commerce Sales &amp; Profit Dashboard built in Power BI to track performance and inventory.
+# 📊 E-commerce Sales Dashboard (Power BI)
+
+## 📌 Overview
+This project is an **E-commerce Product Performance and Inventory Dashboard** built in **Power BI**.  
+It provides insights into **sales, profit, categories, payment methods, and regional performance**, helping businesses make data-driven decisions.  
+This project was developed during my **6-week internship at InternPro** as part of practical training in **Business Intelligence & Power BI**. 
+
+---
+
+## 🎯 Features
+- Total Orders, Sales, and Profit (KPIs)
+- Category & Sub-Category performance
+- Sales and Profit by Month/Quarter
+- State & City-wise sales insights
+- Payment method distribution
+- Interactive slicers for time period and region filtering
+
+---
+
+## 📷 Dashboard Preview
+  
+`![Dashboard Screenshot](Screenshots/Main_Screenshot.png)`
+
+
+`[Screenshot](Screenshots/Screenshot%201.png)`
